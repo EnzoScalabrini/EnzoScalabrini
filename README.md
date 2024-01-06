@@ -1,8 +1,7 @@
-## Olá! Sou Enzo Scalabrini
+## Olá! Sou Enzo Leite
 
 Sou mais um doido se aventurando na programação!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/egabrii_/)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -11,4 +10,4 @@ Sou mais um doido se aventurando na programação!
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-![Enzo Scalabrini GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoscalabrini&showicons=true&theme=radical)
+![Enzo Scalabrini GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoleite&showicons=true&theme=radical)
